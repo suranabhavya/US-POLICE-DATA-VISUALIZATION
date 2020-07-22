@@ -1,0 +1,7 @@
+.victimRaceCard {
+    margin: 50px 25px;
+    height: 300px;
+    width: 550px;
+    background-color: #00acc1 !important;
+    border-bottom: 15px solid rgba(0, 0, 0, 0.7);
+}

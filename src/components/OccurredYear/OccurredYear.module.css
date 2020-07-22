@@ -1,0 +1,7 @@
+.occurredYearCard {
+    margin: -10px 30px;
+    height: 400px;
+    width: 800px;
+    background-color: #ffcc00 !important;
+    border-bottom: 15px solid rgba(0, 0, 0, 0.7);
+}
